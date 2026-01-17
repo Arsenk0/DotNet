@@ -1,0 +1,6 @@
+@CatalogApp.Mongo_HostAddress = http://localhost:5129
+
+GET {{CatalogApp.Mongo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
